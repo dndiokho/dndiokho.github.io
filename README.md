@@ -40,7 +40,7 @@ Originally developed in IT 145, this Android application allows users to track w
 
 ### Original Version
 
-[View Original Code](./artifacts/original-app/)
+[View Original Code](./original%20weight%20tracker%20app.zip)
 
 ---
 
