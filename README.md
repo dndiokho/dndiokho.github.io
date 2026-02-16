@@ -57,7 +57,7 @@ Improved application structure, modularity, and overall maintainability.
 
 Enhanced logic efficiency and improved data handling structures.
 
-[View Enhanced Code](./artifacts/enhancement-2-algorithms/)  
+[View Enhanced Code](./CS499_Algorithms%20and%20Data%20Structure_WeightTracker.zip)  
 [Read Narrative](./narratives/enhancement-2-narrative.docx)
 
 ---
