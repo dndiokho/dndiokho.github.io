@@ -68,7 +68,7 @@ Improved database functionality, query efficiency, and data integrity practices.
 
 [View Enhanced Code](./CS499_Databases_WeightTracker.zip) 
 
-[Read Narrative](./CS%20499%20Databases%20Narrative.docx)
+[Read Narrative](./CS%20499%20Databases%20Narrative.pdf)
 
 
 
