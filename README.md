@@ -49,7 +49,7 @@ Originally developed in IT 145, this Android application allows users to track w
 Improved application structure, modularity, and overall maintainability.
 
 [View Enhanced Code](./CS499_Software%20Design%20and%20Engineering_WeightTracker.zip)  
-[Read Narrative](./CS%20499%20Software%20Design%20and%20Engineering%20Narrative.docx)
+[Read Narrative](./CS%20499%20Software%20Design%20and%20Engineering%20Narrative.pdf)
 
 ---
 
