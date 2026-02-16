@@ -28,7 +28,7 @@ Overall, this program has shaped me into a more confident and capable computing 
 
 This video provides a walkthrough of the original Weight Tracker application, identifies areas for improvement, and explains the planned enhancements aligned with course outcomes.
 
-[Watch Code Review Video](PASTE-YOUR-YOUTUBE-LINK-HERE)
+[Watch Code Review Video](https://youtu.be/iFreZnh9Wec)
 
 ---
 
