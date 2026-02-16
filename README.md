@@ -66,7 +66,7 @@ Enhanced logic efficiency and improved data handling structures.
 
 Improved database functionality, query efficiency, and data integrity practices.
 
-[View Enhanced Code](./artifacts/enhancement-3-database/)  
+[View Enhanced Code](./CS499_Databases_WeightTracker.zip) 
 [Read Narrative](./narratives/enhancement-3-narrative.docx)
 
 
