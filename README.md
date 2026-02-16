@@ -71,3 +71,6 @@ Improved database functionality, query efficiency, and data integrity practices.
 [Read Narrative](./CS%20499%20Databases%20Narrative.docx)
 
 
+
+
+
