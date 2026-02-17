@@ -40,15 +40,20 @@ Originally developed in IT 145, this Android application allows users to track w
 
 ### Original Version
 
-[View Original Code](./original%20weight%20tracker%20app.zip)
+[View Original Artifact](./Original_Artifact)
+
+---
+
+### Final Enhanced Version
+
+[View Enhanced Artifact](./Enhanced_Artifact)
 
 ---
 
 ### Enhancement 1 – Software Design & Engineering
 
 Improved application structure, modularity, and overall maintainability.
-
-[View Enhanced Code](./CS499_Software%20Design%20and%20Engineering_WeightTracker.zip)  
+ 
 [Read Narrative](./CS%20499%20Software%20Design%20and%20Engineering%20Narrative.pdf)
 
 ---
@@ -56,8 +61,7 @@ Improved application structure, modularity, and overall maintainability.
 ### Enhancement 2 – Algorithms & Data Structures
 
 Enhanced logic efficiency and improved data handling structures.
-
-[View Enhanced Code](./CS499_Algorithms%20and%20Data%20Structure_WeightTracker.zip)  
+  
 [Read Narrative](./CS%20499%20Algorithms%20and%20Data%20Structure%20Narrative.pdf) 
 
 ---
@@ -66,19 +70,5 @@ Enhanced logic efficiency and improved data handling structures.
 
 Improved database functionality, query efficiency, and data integrity practices.
 
-[View Enhanced Code](./CS499_Databases_WeightTracker.zip) 
-
 [Read Narrative](./CS%20499%20Databases%20Narrative.pdf)
-
-
-
-
-
-
-
-
-
-
-
-
 
