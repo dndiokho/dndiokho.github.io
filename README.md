@@ -1,7 +1,8 @@
-## Dorathy Ndiokho – CS 499 Computer Science ePortfolio 
+## Dorathy Ndiokho – CS 499 Computer Science ePortfolio
 
-
----
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![Android](https://img.shields.io/badge/Platform-Android-green)
+![SQLite](https://img.shields.io/badge/Database-SQLite-blue)
 
 ## Professional Self-Assessment
 
